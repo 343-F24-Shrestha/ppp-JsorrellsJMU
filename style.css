@@ -15,4 +15,10 @@ body {
     background-color: #222;
     color: #fff;
   }
+  /* Add this to your style.css file */
+.rounded-circle {
+    max-width: 150px; /* Limit the width to a more reasonable size */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
   
